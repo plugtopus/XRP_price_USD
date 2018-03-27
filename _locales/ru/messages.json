@@ -1,0 +1,8 @@
+{
+   "desc": {
+      "message": "Это расширение просто показывает самый актуальный курс Ripple к доллару - XRP/USD. Ничего лишнего. Данные с Coinmarketcap."
+   },
+   "name": {
+      "message": "Рипл Ripple XRP"
+   }
+}

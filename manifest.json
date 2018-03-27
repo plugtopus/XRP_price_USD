@@ -1,0 +1,18 @@
+{
+   "browser_action": {
+      "default_popup": "html/popup.html"
+   },
+   "default_locale": "ru",
+   "description": "__MSG_desc__",
+   "icons": {
+      "128": "img/128.png",
+      "64": "img/64.png"
+   },
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "permissions": [ "https://api.coinmarketcap.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2018.3.27.4",
+   "author": "Plugtopus Agency",
+   "homepage_url": "https://plugtopus.agency"
+}
